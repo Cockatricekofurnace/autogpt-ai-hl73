@@ -1,4 +1,4 @@
-# 
+# Automático AutoGPT plugins. Com treinamento de modelos personalizados e indexação de dados — otimizado para máximo desempenho e eficiência.
 
 
 
